@@ -69,7 +69,7 @@ The following gets printed to the terminal:
 
 You may extract specified fields from the response, such as the message content: 
 
-`This image appears to be a drawing of a female anime character. The character has brown hair with reddish highlights, and large blue earrings with black centers. She is wearing a pink hooded top and a black choker around her neck. Her eyebrows are furrowed, giving the impression that she may be upset or angry.'`
+`'This image appears to be a drawing of a female anime character. The character has brown hair with reddish highlights, and large blue earrings with black centers. She is wearing a pink hooded top and a black choker around her neck. Her eyebrows are furrowed, giving the impression that she may be upset or angry.'`
 
 ## Resources
 #### Ollama
