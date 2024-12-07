@@ -64,6 +64,7 @@ Then run the code:
 `model='llama3.2-vision' created_at='2024-12-07T01:39:05.0383784Z' done=True done_reason='stop' total_duration=5086385300 load_duration=23007700 prompt_eval_count=18 prompt_eval_duration=290000000 eval_count=67 eval_duration=4683000000 message=Message(role='assistant', content='This image appears to be a drawing of a female anime character. The character has brown hair with reddish highlights, and large blue earrings with black centers. She is wearing a pink hooded top and a black choker around her neck. Her eyebrows are furrowed, giving the impression that she may be upset or angry.', images=None, tool_calls=None)`
 
 You may extract specified fields from the response, such as the message content: 
+
 `This image appears to be a drawing of a female anime character. The character has brown hair with reddish highlights, and large blue earrings with black centers. She is wearing a pink hooded top and a black choker around her neck. Her eyebrows are furrowed, giving the impression that she may be upset or angry.'`
 
 ## Resources
