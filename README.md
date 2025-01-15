@@ -83,3 +83,6 @@ You may extract specified fields from the response, such as the message content:
 
 #### Python
 * https://www.python.org/downloads/
+
+## Credits
+Setup created by <a href="https://www.github.com/nicholaswile">@nicholaswile</a>.
